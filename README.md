@@ -4,7 +4,7 @@
 
 ### HI! 👋 I'm Paolo Orazi
 
-🔭 I’m currently working on **Deliveboo** <br>
+🔭 I’m currently working on **js-advent-calendar-2024** <br>
 🌱 I’m currently learning a bit of everything👨🏻‍🎓 <br>
 💬 Feel free to ask me anything! <br>
 📫 You can find me on<br>

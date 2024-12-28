@@ -4,8 +4,8 @@
 
 ### HI! 👋 I'm Paolo Orazi
 
-🔭 I’m currently working on **js-advent-calendar-2024** <br>
-🌱 I’m currently learning a bit of everything👨🏻‍🎓 <br>
+🔭 I’m currently working on a **C# and .NET** course <br>
+🌱 I’m currently learning C# and .NET👨🏻‍🎓 <br>
 💬 Feel free to ask me anything! <br>
 📫 You can find me on<br>
 
